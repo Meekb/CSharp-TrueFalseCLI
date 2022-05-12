@@ -1,0 +1,6 @@
+/Users/meekb/Projects/TrueOrFalseCLI/TrueOrFalseCLI/obj/Debug/TrueOrFalseCLI.csproj.AssemblyReference.cache
+/Users/meekb/Projects/TrueOrFalseCLI/TrueOrFalseCLI/obj/Debug/TrueOrFalseCLI.csproj.CoreCompileInputs.cache
+/Users/meekb/Projects/TrueOrFalseCLI/TrueOrFalseCLI/bin/Debug/TrueOrFalseCLI.exe
+/Users/meekb/Projects/TrueOrFalseCLI/TrueOrFalseCLI/bin/Debug/TrueOrFalseCLI.pdb
+/Users/meekb/Projects/TrueOrFalseCLI/TrueOrFalseCLI/obj/Debug/TrueOrFalseCLI.exe
+/Users/meekb/Projects/TrueOrFalseCLI/TrueOrFalseCLI/obj/Debug/TrueOrFalseCLI.pdb
